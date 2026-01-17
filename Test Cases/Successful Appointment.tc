@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successful Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f214ef7-826a-485a-932e-aa075931dd46</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79adabf3-fb2c-49fc-af00-9d7f4de8e414</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Make Appointment Katalon'</defaultValue>
+      <description></description>
+      <id>79adabf3-fb2c-49fc-af00-9d7f4de8e414</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>
